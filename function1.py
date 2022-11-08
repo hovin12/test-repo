@@ -4,4 +4,4 @@ def mean(lst):
 
 print(mean(list(range(1,11)))
 
-print('Hello World')
+print('hello world')
